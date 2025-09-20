@@ -1,7 +1,24 @@
 name: 'icon_pack_flutter'
-description: 'A new Flutter package project.'
+description: 'Icon Pack FLutter For Help You Add Icon For Your Application'
 version: '0.0.1'
-homepage: null
+repository: 'https://github.com/azkadev/icon_pack_flutter'
+homepage: 'https://github.com/azkadev/icon_pack_flutter'
+documentation: 'https://github.com/azkadev/icon_pack_flutter'
+issue_tracker: 'https://github.com/azkadev/icon_pack_flutter/issues'
+funding:
+  - "https://github.com/sponsors/azkadev"
+  - "https://www.patreon.com/c/azkadev"
+  - "https://opencollective.com/azkadev"
+  - "https://paypal.me/azkaaxeliongibran"
+  - "https://paypal.me/azkadev"
+platforms:
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+
 environment:
   sdk: '>=3.6.0 <4.0.0'
   flutter: '>=1.17.0'
