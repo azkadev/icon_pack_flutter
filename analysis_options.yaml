@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    unnecessary_brace_in_string_interps: ignore
+    unnecessary_string_interpolations: ignore
+    todo: ignore
+  exclude:
+    - test
+    - dev
+    - templates
+linter:
+  rules:
+    - public_member_api_docs
+    - always_declare_return_types
